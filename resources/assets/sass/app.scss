@@ -1,0 +1,47 @@
+
+// Fonts
+@import url("https://fonts.googleapis.com/css?family=Raleway:300,400,600");
+
+// Variables
+@import "variables";
+
+// Bootstrap
+@import "node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
+
+
+.navbar{
+    margin-bottom: 0;
+    border-radius: 0;
+}
+
+.top-margin-15{
+    margin-top: 15px;
+}
+
+.view-height-100{
+    min-height: calc(100vh - 51.3333px);
+}
+
+.hero-picture{
+    background: url('/storage/page_pictures/wp.jpg'), linear-gradient(rgba(255, 255, 255, 0.70), rgba(255, 255, 255, 0.70)), fixed;
+    height: calc(100vh - 51.3333px);
+    background-size: cover;
+    display: flex;
+
+    .jumbotron{
+        background: rgba(255, 255, 255, 0.70);
+        margin: auto;
+        top: -51.3333px;
+        width: 80%;
+        position: relative;
+        padding: 10px;
+        -webkit-box-shadow: 0px 14px 16px 4px rgba(0,0,0,0.9);
+        -moz-box-shadow: 0px 14px 16px 4px rgba(0,0,0,0.9);
+        box-shadow: 0px 14px 16px 4px rgba(0,0,0,0.9);       
+    }
+}
+
+footer{
+    color: #fff;
+    background: #333;
+}
