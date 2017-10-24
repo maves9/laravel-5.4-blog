@@ -3,7 +3,7 @@
 
 # My laravel blog
 
-## features
+features:
 
 - search function
 - login sytem
@@ -11,7 +11,7 @@
 - posts
 - comments
 
-## feel free too help out ^^
+feel free too help out ^^
 
 ## License
 
