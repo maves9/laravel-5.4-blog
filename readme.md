@@ -1,9 +1,9 @@
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 
-#My laravel blog
+# My laravel blog
 
-##features
+## features
 
 - search function
 - login sytem
@@ -11,7 +11,7 @@
 - posts
 - comments
 
-##feel free too help out ^^
+## feel free too help out ^^
 
 ## License
 
